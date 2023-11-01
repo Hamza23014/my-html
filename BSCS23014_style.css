@@ -7,7 +7,7 @@
   }
   
   .price {
-    color: grey;
+    color: black;
     font-size: 22px;
   }
   
@@ -15,7 +15,7 @@
     border: none;
     outline: 0;
     padding: 12px;
-    color: white;
+    color: cyan;
     background-color: #000;
     text-align: center;
     cursor: pointer;
@@ -24,12 +24,12 @@
   }
   
   .card button:hover {
-    opacity: 0.7;
+    opacity: 0.8;
   }
 nav a{
     text-decoration: none;
     padding:1%;
-    color: red;
+    color: pink;
     font-size: 20px;
 }
 nav{
@@ -90,7 +90,7 @@ contact {
  margin-right: 20px;
 }
 .top-left {
-    color: indigo;
+    color: purple;
     font-style: normal;
     position: absolute;
     top: 120px;
